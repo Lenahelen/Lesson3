@@ -1,0 +1,28 @@
+
+div{
+      color :blueviolet; 
+ }
+
+ul{ 
+     color:aqua;
+ }
+
+ol{
+     color:maroon;
+}
+
+.text{ 
+     color:blue;
+}
+
+#block{ 
+     color:deeppink;
+}
+
+div.text{ 
+     color:black;
+}
+
+.text-lesson{ 
+     color:brown;
+}
